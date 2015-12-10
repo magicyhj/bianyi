@@ -1,0 +1,29 @@
+program source;
+var x_1,x,y,z:integer;//dfhjsfhsjhsj
+        a:integer;/*dd*/
+        b:real;
+begin
+x_1:=5.5;
+b:=5.2;
+x:=23+5;
+y:=z+18/a;
+x:=2-5;
+y:=9*a;
+x:=-2;
+while x<>8 do begin
+if x>2 then x:=5;
+end;
+while x>=8 do 
+x:=5;
+/*if a<=2 then begin
+x:=x+6;
+end;
+else x:=x+11;*/
+if x>2 then begin
+ x:=5;
+ end;
+if a>=2 then x:=x+7 else x:=x+9;
+z:=x/6;
+a:=x+z;
+if x>=2 then x:=x+7;
+end.
